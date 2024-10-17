@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appBarColor">#4A90E2</color>
+    <color name="backgroundColor">#F0F4F8</color>
+    <color name="primaryButtonColor">#4A90E2</color>
+    <color name="secondaryButtonColor">#D9E6F2</color>
+    <color name="custom_color">#ACC7C7</color>
+    <color name="textColor">#2A2A2A</color>
+    <color name="accentColor">#00C853</color>
+    <color name="priorityColor">#FF0000</color>
+
+</resources>
